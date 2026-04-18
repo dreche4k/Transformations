@@ -6,7 +6,7 @@ The .NET extension method library that kills boilerplate. Type conversions, stri
 [![.NET 8 | 9 | 10](https://img.shields.io/badge/.NET-8%20%7C%209%20%7C%2010-blue)]()
 [![NUnit](https://img.shields.io/badge/Tests-NUnit-green)]()
 
-> **Built by [opentail.net](https://opentail.net)** — Dmitri Rechetilov
+> **Built by [opentail.net](https://opentail.net)**
 
 ---
 
